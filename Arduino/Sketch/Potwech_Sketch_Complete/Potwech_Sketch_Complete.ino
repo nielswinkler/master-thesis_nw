@@ -817,7 +817,7 @@ boolean DiffBiggerOrEqual(DateTime a, DateTime b, long timeDiff){
   return (c >= timeDiff);
 }
 void SendSMS(){
-      if (sms.SendSMS("00491743182715", "Parcel opened"))
+      if (sms.SendSMS("xxxxxxxxxx", "Parcel opened"))
       Serial.println("\nSMS sent OK");
 }
 

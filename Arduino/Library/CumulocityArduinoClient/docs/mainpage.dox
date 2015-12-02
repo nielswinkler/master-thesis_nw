@@ -1,0 +1,11 @@
+/**
+\mainpage C Agent for the Cumulocity Platform
+
+With the Cumulocity C Agent you can connect your embedded device with the Cumulocity Conduct.
+Cumulocity Conduct is a M2M Application platform, for details see http://www.cumulocity.com/conduct.
+
+The C Agent can be used on many system, for example, but not limited to Arduino.
+
+The main class to use is @ref CumulocityPlatform. Please see class documentation for more details.
+
+*/
